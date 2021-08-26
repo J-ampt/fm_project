@@ -1,3 +1,7 @@
 def somefun(){
 	something usefull;
 }
+
+def somestuff(){
+	something robust and reliable;
+}
